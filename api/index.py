@@ -18,7 +18,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(level
 logger = logging.getLogger(__name__)
 
 # --- [ CONFIGURATION ] ---
-BOT_TOKEN = "8856438816:AAFSR9nth0bqHEleMSv0BpkYW3kvhmNdR7E"
+BOT_TOKEN = "8856438816:AAHgKqHgz_EbIycsTfcLPJvHLVHbwH_YuhU"
 DEVELOPER_ID = "@The_Dark_Mamun"  # Developer ID
 ADMIN_IDS = [7810637734]  # Add admin user IDs here
 OWNER_ID = [7810637734] # Replace with your Owner ID
